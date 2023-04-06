@@ -11,7 +11,7 @@ Meant for keeping track of good AI, ML and DS resources
 ## Blogs
 
 - [Count Bayesie](https://www.countbayesie.com/): probability blog that also explores machine learning and data science topics.
-
+- [Lil'Log](https://lilianweng.github.io/): introduces new advances in ML, providing very well written techincal explanations.
 ## News Articles
 
 - [The Batch](https://www.deeplearning.ai/the-batch/): by the DeepLearning.AI team
@@ -26,4 +26,5 @@ Meant for keeping track of good AI, ML and DS resources
 
 - Deep Learning [Goodfellow I. et al.]
 - Machine Learning Powered Applications and Systems [Emmanuel Ameisen]
+- Pattern Recognition and Machine Learning [Christopher Bishop]
 
