@@ -2,6 +2,10 @@
 
 Meant for keeping track of good AI, ML and DS resources
 
+## Repositories
+
+- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook#choosing-the-optimizer): guide for getting the most out of deep learning models. Created by google researchers.
+
 ## Youtube Channels
 
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher): AI news
