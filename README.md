@@ -20,6 +20,7 @@ Meant for keeping track of good AI, ML and DS resources
 ## Knowledge
 
 - [Count Bayesie](https://www.countbayesie.com/): probability blog that also explores machine learning and data science topics.
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown): cool and visual explanations of math concepts.
 - [Spinning Up by OpenAI](https://spinningup.openai.com/en/latest/user/introduction.html): educational resource for learning about deep reinforcement learning with a library implementation
 - Deep Learning [Goodfellow I. et al.]
 - Machine Learning Powered Applications and Systems [Emmanuel Ameisen]
