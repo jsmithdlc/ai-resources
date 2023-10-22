@@ -11,8 +11,11 @@ Meant for keeping track of good AI, ML and DS resources
 - [WIRED](https://www.wired.com/tag/artificial-intelligence/): news about AI breakthroughs and innovations, written through a social or cultural impact perspective.
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher):  youtube channel of AI news
 - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai): brief explanations of recent advances in AI and other related fields.
-- [Lil’Log](https://lilianweng.github.io/): introduces new advances in ML, providing very well written techincal explanations. ## News Articles
-- [The Batch](https://www.deeplearning.ai/the-batch/): newsletter that informs of AI subjects and advancements.
+- [Lil’Log](https://lilianweng.github.io/): introduces new advances in ML, providing very well written techincal explanations.
+
+## News Articles
+
+- [The Batch](https://www.deeplearning.ai/the-batch/): newsletter from DeepLearningAI that informs of AI advancements
 
 ## Knowledge
 
