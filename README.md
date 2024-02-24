@@ -22,11 +22,12 @@ Meant for keeping track of good AI, ML and DS resources
 - Pattern Recognition and Machine Learning [Christopher Bishop]
 - Reinforcement Learning: An Introduction [Richard S. Sutton and Andrew G. Barto]
 
-## Blogs
+## Blogs & Articles
 - [Andrej Karpathy's](https://karpathy.github.io/): experiences and insights from this researcher associated to OpenAI
 - [Lil’Log](https://lilianweng.github.io/): introduces new advances in ML, providing very well written techincal explanations.
 - [Count Bayesie](https://www.countbayesie.com/): explores machine learning and data science topics.
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown): cool and visual explanations of math concepts.
+- [Distill](https://distill.pub/): articles explaining complex topics through peer-reviewed detailed explanations with very nice visuals. Sadly discontinued in 2021 :(
 
 ## Discussion
 
