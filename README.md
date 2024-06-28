@@ -8,6 +8,7 @@ Meant for keeping track of good AI, ML and DS resources
 - [Spinning Up by OpenAI](https://spinningup.openai.com/en/latest/user/introduction.html): educational resource for learning about deep reinforcement learning with a library implementation
 - [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction): covers the fundamentals of deep reinforcement learning along with exercises with popular RL frameworks.
 - [Foundations of Deep RL by Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0): series of 6 lectures covering fundamental topics of Deep Reinforcement Learning.
+- [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml): guide to best ML engineering practices set up by googlers.
 
 ## News
 
@@ -21,6 +22,7 @@ Meant for keeping track of good AI, ML and DS resources
 - Machine Learning Powered Applications and Systems [Emmanuel Ameisen]
 - Pattern Recognition and Machine Learning [Christopher Bishop]
 - Reinforcement Learning: An Introduction [Richard S. Sutton and Andrew G. Barto]
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications [Chip Huyen]
 
 ## Blogs & Articles
 - [Andrej Karpathy's](https://karpathy.github.io/): experiences and insights from this researcher associated to OpenAI
